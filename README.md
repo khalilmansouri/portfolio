@@ -1,19 +1,24 @@
-# My Portfolio Site
+# portfolio-site
 
+## Project setup
+```
+yarn install
+```
 
-## Purpose
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-I wanted to create a space on the web to showcase any projects I've been working, as well as give me somewhere to write blog articles about a variety of topics. It also provides somewhere to consolidate my public links to make it easier for people to contact me.
+### Compiles and minifies for production
+```
+yarn build
+```
 
-## Stack
+### Lints and fixes files
+```
+yarn lint
+```
 
-- HTML
-- CSS
-- Javascript
-  - Vue.js
-
-## Production
-
-My site exists at https://khalil-mansouri.com, thanks to Github pages
-
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
